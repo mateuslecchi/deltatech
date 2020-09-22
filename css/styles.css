@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
+  color: #205F6E;
   text-decoration: underline;
 }
 
@@ -204,6 +204,7 @@ img {
 svg {
   overflow: hidden;
   vertical-align: middle;
+  color: #205F6E;
 }
 
 table {
@@ -2915,7 +2916,7 @@ fieldset:disabled a.btn {
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #d6370c;
+  color: #205F6E;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -4605,7 +4606,7 @@ input[type=button].btn-block {
 }
 .page-link:hover {
   z-index: 2;
-  color: #d6370c;
+  color: #205F6E;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -9801,7 +9802,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d6370c !important;
+  color: #205F6E !important;
 }
 
 .text-secondary {
